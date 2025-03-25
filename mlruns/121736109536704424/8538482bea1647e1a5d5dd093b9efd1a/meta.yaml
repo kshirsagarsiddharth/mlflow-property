@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Work/mlflow-property/mlruns/121736109536704424/8538482bea1647e1a5d5dd093b9efd1a/artifacts
+end_time: 1742881732936
+entry_point_name: ''
+experiment_id: '121736109536704424'
+lifecycle_stage: active
+run_id: 8538482bea1647e1a5d5dd093b9efd1a
+run_name: Linear Model with 3 FC Layers
+run_uuid: 8538482bea1647e1a5d5dd093b9efd1a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742881647656
+status: 3
+tags: []
+user_id: siddharth
