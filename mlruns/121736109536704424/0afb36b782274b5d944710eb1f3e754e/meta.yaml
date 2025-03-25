@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Work/mlflow-property/mlruns/121736109536704424/0afb36b782274b5d944710eb1f3e754e/artifacts
+deleted_time: 1742791164054
+end_time: 1742748712791
+entry_point_name: ''
+experiment_id: '121736109536704424'
+lifecycle_stage: deleted
+run_id: 0afb36b782274b5d944710eb1f3e754e
+run_name: inquisitive-duck-835
+run_uuid: 0afb36b782274b5d944710eb1f3e754e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742748678229
+status: 3
+tags: []
+user_id: siddharth

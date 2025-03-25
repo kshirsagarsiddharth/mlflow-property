@@ -1,0 +1,7 @@
+{
+  "relu": {
+    "type": "ReLU",
+    "parameters": 0,
+    "trainable_parameters": 0
+  }
+}

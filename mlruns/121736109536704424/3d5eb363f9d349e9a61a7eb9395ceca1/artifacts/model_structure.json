@@ -1,0 +1,7 @@
+{
+  "fc1": {
+    "type": "Linear",
+    "parameters": 35,
+    "trainable_parameters": 35
+  }
+}

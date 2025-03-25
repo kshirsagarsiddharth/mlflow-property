@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Work/mlflow-property/mlruns/121736109536704424/d2c75f8cebf7464aafab7549581642ce/artifacts
+deleted_time: 1742791396378
+end_time: 1742791338076
+entry_point_name: ''
+experiment_id: '121736109536704424'
+lifecycle_stage: deleted
+run_id: d2c75f8cebf7464aafab7549581642ce
+run_name: Simple Baseline Linear Model
+run_uuid: d2c75f8cebf7464aafab7549581642ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742791337704
+status: 4
+tags: []
+user_id: siddharth
