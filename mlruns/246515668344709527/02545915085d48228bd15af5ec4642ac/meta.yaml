@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/246515668344709527/02545915085d48228bd15af5ec4642ac/artifacts
+end_time: 1742969040454
+entry_point_name: ''
+experiment_id: '246515668344709527'
+lifecycle_stage: active
+run_id: 02545915085d48228bd15af5ec4642ac
+run_name: dropout-relu-mse-loss-complex-model
+run_uuid: 02545915085d48228bd15af5ec4642ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742968989531
+status: 3
+tags: []
+user_id: siddharth

@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/246515668344709527
+creation_time: 1742966815476
+experiment_id: '246515668344709527'
+last_update_time: 1742966815476
+lifecycle_stage: active
+name: regression-3d-predictions

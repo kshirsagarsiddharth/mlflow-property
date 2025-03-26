@@ -1,0 +1,7 @@
+artifact_location: file:///c:/Work/mlflow-property/mlruns/121736109536704424
+creation_time: 1742748678046
+experiment_id: '121736109536704424'
+last_update_time: 1742966854695
+lifecycle_stage: deleted
+name: pytorch-3d-prediction
+tags: {}

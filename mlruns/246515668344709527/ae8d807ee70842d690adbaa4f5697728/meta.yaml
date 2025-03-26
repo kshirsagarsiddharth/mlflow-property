@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/246515668344709527/ae8d807ee70842d690adbaa4f5697728/artifacts
+end_time: 1742968946370
+entry_point_name: ''
+experiment_id: '246515668344709527'
+lifecycle_stage: active
+run_id: ae8d807ee70842d690adbaa4f5697728
+run_name: dropout-relu-huber-loss-complex-model
+run_uuid: ae8d807ee70842d690adbaa4f5697728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742968894257
+status: 3
+tags: []
+user_id: siddharth

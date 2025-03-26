@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/246515668344709527/3233b970502145468163814403fa9abb/artifacts
+end_time: 1742969373977
+entry_point_name: ''
+experiment_id: '246515668344709527'
+lifecycle_stage: active
+run_id: 3233b970502145468163814403fa9abb
+run_name: traveling-quail-561
+run_uuid: 3233b970502145468163814403fa9abb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742969335314
+status: 3
+tags: []
+user_id: siddharth
