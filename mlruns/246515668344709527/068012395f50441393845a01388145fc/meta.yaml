@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/246515668344709527/068012395f50441393845a01388145fc/artifacts
+end_time: 1742969964115
+entry_point_name: ''
+experiment_id: '246515668344709527'
+lifecycle_stage: active
+run_id: 068012395f50441393845a01388145fc
+run_name: chill-ram-500
+run_uuid: 068012395f50441393845a01388145fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742969928414
+status: 3
+tags: []
+user_id: siddharth
